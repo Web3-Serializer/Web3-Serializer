@@ -14,17 +14,17 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
+<p>
   🔧 Backend engineer focused on building robust, scalable, and secure systems.<br/>
   🧠 Passionate about reverse engineering APIs, systems, software.<br/>
   💡 Love optimizing performance and diving deep into how things work under the hood.
 </p>
 
-<p align="center">
+<p>
   🧪 Currently exploring:
 </p>
 
-<ul align="center" style="list-style-type:none;">
+<ul style="list-style-type:none;">
   <li>• Artificial Intelligence and Large Language Models (LLMs)</li>
   <li>• Modern web technologies and frameworks</li>
   <li>• Learning tools like <b>Astro</b> and <b>React</b> for fast, scalable frontend development</li>
