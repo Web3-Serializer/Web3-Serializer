@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <h1>👋 Hi, I'm Serializer!</h1>
 
   <a href="https://github.com/Web3-Serializer">
@@ -8,7 +8,7 @@
   <a href="https://github.com/Web3-Serializer?tab=followers">
     <img src="https://img.shields.io/github/followers/Web3-Serializer?style=social" alt="GitHub followers" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -25,11 +25,11 @@
 </p>
 
 <ul style="list-style-type:none;">
-  <li>• Artificial Intelligence and Large Language Models (LLMs)</li>
-  <li>• Modern web technologies and frameworks</li>
-  <li>• Learning tools like <b>Astro</b> and <b>React</b> for fast, scalable frontend development</li>
-  <li>• Blockchain development, smart contracts, and protocol design</li>
-  <li>• Connecting backend logic with decentralized systems</li>
+  <li>Artificial Intelligence and Large Language Models (LLMs)</li>
+  <li>Modern web technologies and frameworks</li>
+  <li>Learning tools like <b>Astro</b> and <b>React</b> for fast, scalable frontend development</li>
+  <li>Blockchain development, smart contracts, and protocol design</li>
+  <li>Connecting backend logic with decentralized systems</li>
 </ul>
 
 ---
