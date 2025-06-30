@@ -3,7 +3,7 @@
     src="https://github.com/Web3-Serializer.png" 
     alt="Serializer Profile Picture" 
     width="120" height="120" 
-    style="border-radius: 50%; margin-bottom: 15px;"
+    style="border-radius: 50%;" 
   />
   <h1>👋 Hi, I'm Serializer!</h1>
 
