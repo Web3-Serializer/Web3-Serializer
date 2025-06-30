@@ -1,4 +1,10 @@
 <div align="center">
+  <img 
+    src="https://github.com/Web3-Serializer.png" 
+    alt="Serializer Profile Picture" 
+    width="120" height="120" 
+    style="border-radius: 50%; margin-bottom: 15px;"
+  />
   <h1>👋 Hi, I'm Serializer!</h1>
 
   <a href="https://github.com/Web3-Serializer">
