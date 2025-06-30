@@ -23,7 +23,6 @@
 <p>
   🧪 Currently exploring:
 </p>
-
 <ul style="list-style-type:none;">
   <li>Artificial Intelligence and Large Language Models (LLMs)</li>
   <li>Modern web technologies and frameworks</li>
