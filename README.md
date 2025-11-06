@@ -19,18 +19,6 @@
   🧠 Passionate about reverse engineering APIs, systems, software.<br/>
   💡 Love optimizing performance and diving deep into how things work under the hood.
 </p>
-
-<p>
-  🧪 Currently exploring:
-</p>
-<ul style="list-style-type:none;">
-  <li>Artificial Intelligence and Large Language Models (LLMs)</li>
-  <li>Modern web technologies and frameworks</li>
-  <li>Learning tools like <b>Astro</b> and <b>React</b> for fast, scalable frontend development</li>
-  <li>Blockchain development, smart contracts, and protocol design</li>
-  <li>Connecting backend logic with decentralized systems</li>
-</ul>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -69,13 +57,6 @@
     <img src="https://streak-stats.demolab.com/?user=Web3-Serializer&theme=default" alt="GitHub Streak" />
   </a>
 </p>
-
----
-
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
