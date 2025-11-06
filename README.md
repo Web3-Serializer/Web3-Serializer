@@ -19,6 +19,7 @@
   🧠 Passionate about reverse engineering APIs, systems, software.<br/>
   💡 Love optimizing performance and diving deep into how things work under the hood.
 </p>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
