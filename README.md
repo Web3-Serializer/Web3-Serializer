@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker" alt="Docker" />
 </p>
 
 ---
