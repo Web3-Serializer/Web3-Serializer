@@ -3,15 +3,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Serializer!</h1>
 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6096268" style='border:none;'></iframe>
-
-  <a href="https://github.com/Web3-Serializer">
-    <img src="https://komarev.com/ghpvc/?username=Web3-Serializer&style=flat-square" alt="Visits Badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Web3-Serializer?tab=followers">
-    <img src="https://img.shields.io/github/followers/Web3-Serializer?style=social" alt="GitHub followers" />
-  </a>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/serializer.png"/>
 </div>
 
 ---
