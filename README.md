@@ -32,8 +32,6 @@
 <h2 align="center">🧩 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Web3-Serializer&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web3-Serializer&layout=compact&hide_title=true" alt="Top Languages" />
 </p>
 
